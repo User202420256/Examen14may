@@ -1,4 +1,13 @@
 #  Curso informatica
+
+### Horario
+
+### De lunes a viernes
+
+### Comienza el 06 de junio hasta 30 de julio
+
+
+   
 ##  Word nivel basico
     Hacer documentos
     Cambiar fondos
@@ -9,7 +18,4 @@
 ##  Duracion del curso
     90 Horas para word
     120 horas para Excel
-### Horario
-### De lunes a viernes
-### Comienza el 06 de junio hasta 30 de julio
-   
+
